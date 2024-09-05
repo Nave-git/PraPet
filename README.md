@@ -2,10 +2,11 @@
 
 
 Equipe:
+Danyel Estewão,
 Gledson Alexandre,
 Janyne Carvalho,
 Kelven Leonnanthas,
-Márcia Freitas,
+Márcia Freitas e
 Wemerson Ribeiro
 
 ## Descrição
@@ -30,8 +31,4 @@ Este é um sistema desenvolvido em Java que permite aos tutores de pets cadastra
   - MySQL/PostgreSQL Driver
   - JUnit (para testes)
 
-## Instalação
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-tutores-pets.git

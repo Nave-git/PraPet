@@ -2,10 +2,10 @@
 
 
 Equipe:
-Gledson Alexandre
-Janyne Carvalho
-Kelven Leonnanthas
-Márcia Freitas
+Gledson Alexandre,
+Janyne Carvalho,
+Kelven Leonnanthas,
+Márcia Freitas,
 Wemerson Ribeiro
 
 ## Descrição

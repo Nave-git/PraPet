@@ -1,0 +1,22 @@
+TELA MEU PERFIL
+
+1.Elementos da Interface:
+Ícone de Menu (Hambúrguer): Localizado no canto superior esquerdo para acessar outras opções do menu. 
+Título: "Meu Perfil" centralizado na parte superior da tela. Avatar: Ícone de perfil circular, com opção de editar a foto (indicado pelo ícone de câmera sobreposto ao avatar).
+
+2.Campos de Formulário: 
+Nome completo: Campo de texto para o usuário inserir seu nome completo. 
+E-mail: Campo de texto para o usuário inserir seu e-mail. 
+Telefone: Campo de texto para o usuário inserir seu número de telefone.
+Sexo: Campo de texto para o usuário indicar seu sexo. 
+Data de Nascimento: Campo de texto para o usuário inserir sua data de nascimento. 
+Estado: Campo de texto para o usuário inserir o estado onde reside. 
+Cep: Campo de texto para o usuário inserir o CEP de sua residência. 
+Bairro: Campo de texto para o usuário inserir o bairro onde reside. 
+Endereço: Campo de texto para o usuário inserir o endereço completo.
+Complemento: Campo de texto para o usuário inserir informações adicionais sobre o endereço, como número, bloco e etc.  
+
+3. Botão Salvar: Localizado na parte inferior central da tela para salvar as informações preenchidas.
+ 
+4. Estilo Visual: Cor de Fundo: Verde claro. Cor dos Elementos de Texto: Verde escuro. Cor do Botão: Fundo branco com borda verde escura.
+

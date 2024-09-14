@@ -1,0 +1,32 @@
+TELA DE LOGIN
+
+Descrição: Permite que o usuário insira seus dados (usuário e senha) para acessar o sistema.
+Componentes da Tela:
+
+1.Logo do Aplicativo:
+Descrição: Exibe o logotipo do Pra Pets na parte superior da tela.
+
+2.Texto de Boas-Vindas:
+
+Descrição: Exibe a mensagem “Bem Vindo!” logo abaixo do logotipo.
+
+3.Campo do usuário: Entrada para digitar o nome do usuário.
+Funcionalidade: Aceita entrada de texto. Caso não seja preenchido, uma mensagem de erro será exibida.
+
+4.Campo de Senha: Campo de texto para inserir a senha do usuário.
+Funcionalidade: Entrada de texto oculta, aceita qualquer combinação de caracteres.
+
+5.Botão de Entrar: Botão para enviar os dados do usuário e realizar o login.
+Funcionalidade: Ao clicar, verifica se os campos foram preenchidos corretamente e faz a autenticação do usuário.
+
+6.Link "Esqueci minha senha":
+Descrição: Permite ao usuário iniciar o processo de recuperação de senha.
+Funcionalidade: Redireciona o usuário para a tela de recuperação de senha.
+
+7.Opções de Login com Google e Facebook:
+Descrição: Ícones de Google e Facebook para login usando essas plataformas.
+Funcionalidade: Redireciona o usuário para o fluxo de autenticação das respectivas plataformas.
+
+8. Botão "Criar conta":
+Descrição: Redireciona o usuário para a tela de cadastro.
+Funcionalidade: Ao clicar, o usuário é direcionado à tela onde pode criar uma nova conta no Pra Pets.

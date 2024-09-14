@@ -1,0 +1,29 @@
+TELA PRINCIPAL
+
+1. Cabeçalho 
+Saudação Personalizada:* "Olá, Petisco!" exibe uma mensagem de boas-vindas personalizada com o nome do usuário ou seu pet. 
+
+2. Ícone de Menu (Função): Localizado no canto superior esquerdo, quando o usuário toca ou clica no ícone, abre um menu lateral e dá cesso as funcionalidades adicionais do aplicativo.
+ 
+3.Ícone de Notificação: No canto superior direito, usado para alertas e notificações importantes. 
+
+4.Seção: Meus Pets: Exibe uma lista de pets cadastrados pelo usuário.
+ 5.Adicionar Pet: Botão destacado com o símbolo de "+" para adicionar um novo pet ao perfil do usuário. 
+
+6.Seção Agendamentos: Imagem que remete ao calendário. Um indicador textual informa se há ou não agendamentos futuros. No caso da imagem, "Você não tem nenhum agendamento." 
+
+7.Campo de Pesquisa: Imagem de uma lupa. A funcionalidade principal associada é a busca ou pesquisa, onde o usuário pode buscar serviços, produtos ou informações específicas. 
+
+8. Seção: Serviços Três botões principais para acessar diferentes serviços:
+*ONGs & Adoção: Permite que o usuário conheça e ajude ONGs de sua cidade, relacionadas a adoção e cuidados de pets.
+*Denúncia de Maus-Tratos: Botão para denunciar casos de maus-tratos contra animais. 
+*Pet Friendly: Mostra locais na cidade do usuário que aceitam a presença de pets.
+
+9.Seção:Promoções e Descontos Objetivo: Fornecer uma interface para que os usuários visualizem e interajam com ofertas e promoções de produtos relacionados a pets conforme o exemplo da tela: 
+
+Esquema de Cores e Design 
+-Cor de Fundo: Tons de verde claro e branco, que transmite calma e está associado ao mundo animal e à natureza. 
+-Ícones: Uso de ícones visuais que facilitam a identificação dos serviços e funcionalidades.
+
+-Tipografia: Texto em verde escuro, destacando-se no fundo claro, com uso de uma fonte amigável e de fácil leitura. 
+*Funcionalidade Geral: A tela é responsiva, simples e focada em facilitar o acesso a informações e serviços relacionados ao cuidado com pets, promovendo a navegação intuitiva do usuário.

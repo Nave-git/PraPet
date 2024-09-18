@@ -2,7 +2,7 @@
 
 
 Equipe:
-Danyel Estewão,
+** Danyel Estewão, ** --
 Gledson Alexandre,
 Janyne Carvalho,
 Kelven Leonnanthas,

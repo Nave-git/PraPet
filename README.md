@@ -2,12 +2,12 @@
 
 
 Equipe:
-** Danyel Estewão, ** --
-Gledson Alexandre,
-Janyne Carvalho,
-Kelven Leonnanthas,
-Márcia Freitas e
-Wemerson Ribeiro
+- **Danyel Estewão,** 
+- **Gledson Alexandre,** --
+- **Janyne Carvalho,** --
+- **Kelven Leonnanthas,** --
+- **Márcia Freitas e** --
+- **Wemerson Ribeiro** --
 
 ## Descrição
 

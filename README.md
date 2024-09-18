@@ -6,9 +6,9 @@ Equipe:
 - **Gledson Alexandre,** --
 - **Janyne Carvalho,** --
 - **Kelven Leonnanthas,** --
-- **Márcia Freitas e** --
-- **Wemerson Ribeiro** --
-
+- **Márcia Freitas,** --
+- **Wemerson Ribeiro e** --
+- **Paola Nacimento** --
 ## Descrição
 
 Este é um sistema desenvolvido em Java que permite aos tutores de pets cadastrar informações sobre seus animais, localizar clínicas próximas e agendar vacinas e exames. A aplicação utiliza o Hibernate para integração com um banco de dados relacional, facilitando a persistência de dados.

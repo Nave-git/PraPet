@@ -31,4 +31,6 @@ Este é um sistema desenvolvido em Java que permite aos tutores de pets cadastra
   - MySQL/PostgreSQL Driver
   - JUnit (para testes)
 
+Projeto responsável <strong>Hoje-aonde<strong/>
+responsável: Vinícius
 
